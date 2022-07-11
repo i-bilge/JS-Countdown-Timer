@@ -4,6 +4,6 @@
 Click on this [link](https://i-bilge.github.io/JS-Countdown-Timer/)
 
 
-## Screenshots
+## Screenshot
 
 ![Example screenshot](./ReadmePhotos/1.PNG)
